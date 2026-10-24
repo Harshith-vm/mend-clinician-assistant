@@ -1,0 +1,4022 @@
+[
+    {
+        "row_index": 0,
+        "Domain": "Depression",
+        "Criterion": "Depressed mood (can be irritable in youth)",
+        "client_message": "I've been feeling really down and empty lately.",
+        "model_response": "It sounds like there's a sense of weightlessness to how you're describing yourself - as if something that used to bring energy or meaning is missing now. Can you tell me more about what was different for you before these feelings started?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder",
+                "BipolarTypeIDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.89,
+            "emotions_confirmed": [
+                "Sadness",
+                "Joy",
+                "Emptiness",
+                "Stress"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "neutral",
+                    "positive_progress"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 1,
+        "Domain": "Depression",
+        "Criterion": "Loss of interest or pleasure",
+        "client_message": "I've lost interest in everything I used to enjoy.",
+        "model_response": "It's like the spark that made something enjoyable for you has gone out? What was one thing, before all this happened, that still feels particularly hard to get excited about again?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder",
+                "GeneralizedAnxietyDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.871,
+            "emotions_confirmed": [
+                "Sadness",
+                "Stress",
+                "Loneliness",
+                "Joy"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "positive_progress",
+                    "frustration"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 2,
+        "Domain": "Depression",
+        "Criterion": "Appetite or weight change",
+        "client_message": "I have no appetite and I'm barely eating.",
+        "model_response": "Not being hungry at all can make mealtime feel really challenging, especially if it's something that usually brings some comfort. What does it feel like when you think about food? Does anything remind you of your last few meals together, before we started talking today?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Avoidance",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.861,
+            "emotions_confirmed": [
+                "Sadness"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "neutral",
+                    "anger"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 3,
+        "Domain": "Depression",
+        "Criterion": "Sleep disturbance",
+        "client_message": "I can't fall asleep and I lie awake until 4am.",
+        "model_response": "You've been lying awake till 4 am because you just can't seem to wind down at night - that's really affecting your sleep patterns. What's going through your mind when you're trying to fall asleep? Is there something specific that keeps worrying you or preoccupying you?",
+        "metadata": {
+            "emotion": "neutral",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "BipolarTypeIDisorder",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder",
+                "NarcissisticPersonalityDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "BehaviouralActivation",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.405,
+            "emotions_confirmed": [
+                "Neutral",
+                "Fear",
+                "Joy",
+                "Anxiety"
+            ],
+            "contexts": [],
+            "session_profile": {
+                "dominant_disorders": [
+                    "BipolarTypeIDisorder",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "neutral",
+                    "positive_progress",
+                    "frustration"
+                ],
+                "overall_theme": "big mood swings",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 4,
+        "Domain": "Depression",
+        "Criterion": "Psychomotor agitation or slowing",
+        "client_message": "I feel like I'm moving so slowly these days.",
+        "model_response": "It sounds like progress feels slow after feeling more energized recently? That's hard to adjust to. What does 'moving slowly' mean for you, specifically - are there things that usually come easily but are taking longer than usual, or perhaps some activities that just aren't happening at all?",
+        "metadata": {
+            "emotion": "positive_progress",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "BipolarTypeIDisorder",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder",
+                "ProlongedGriefDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "BehaviouralActivation",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.391,
+            "emotions_confirmed": [
+                "PositiveProgress",
+                "Hopeful",
+                "Fear",
+                "Stress"
+            ],
+            "contexts": [],
+            "session_profile": {
+                "dominant_disorders": [
+                    "BipolarTypeIDisorder",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "positive_progress",
+                    "neutral",
+                    "sadness"
+                ],
+                "overall_theme": "big mood swings",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 5,
+        "Domain": "Depression",
+        "Criterion": "Fatigue or low energy",
+        "client_message": "I'm exhausted all the time.",
+        "model_response": "It's like there's no energy left over for anything beyond just getting through the day. You mentioned earlier that relationships at home can be a source of stress too - how does being around family usually feel when you're feeling particularly drained?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder",
+                "BipolarTypeIDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.872,
+            "emotions_confirmed": [
+                "Sadness",
+                "Stress",
+                "Loneliness",
+                "Overwhelmed"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "neutral",
+                    "frustration"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 6,
+        "Domain": "Depression",
+        "Criterion": "Worthlessness or excessive guilt",
+        "client_message": "I feel worthless and it's all my fault.",
+        "model_response": "That must be an incredibly painful feeling to carry around - like there's no escape from being stuck on yourself as someone who failed somehow. Can you tell me more about what made you start thinking that way? What specifically makes you think it's your fault?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder",
+                "BipolarTypeIDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.89,
+            "emotions_confirmed": [
+                "Sadness",
+                "Anxiety"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "anger",
+                    "frustration"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 7,
+        "Domain": "nan",
+        "Criterion": "nan",
+        "client_message": "I'm such an idiot, I always mess everything up.",
+        "model_response": "You feel like you're consistently messing things up, that nothing seems to go right for you lately? What specifically comes to mind as examples when you think about making mistakes or messing things up?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.829,
+            "emotions_confirmed": [
+                "Sadness",
+                "Anxiety",
+                "Worry"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "anger",
+                    "frustration"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 8,
+        "Domain": "Depression",
+        "Criterion": "Poor concentration or indecisiveness",
+        "client_message": "I can't concentrate on anything at work.",
+        "model_response": "It sounds like feeling stuck and struggling to make progress at work is really getting under your skin - I notice that word 'can't' keeps coming up, which often indicates how strongly something feels impossible or overwhelming. What specifically about work seems like an insurmountable hurdle for you?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Avoidance",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder",
+                "GeneralizedAnxietyDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.878,
+            "emotions_confirmed": [
+                "Sadness",
+                "Stress",
+                "Loneliness",
+                "Joy"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "neutral",
+                    "frustration"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 9,
+        "Domain": "Depression",
+        "Criterion": "Hopelessness about the future",
+        "client_message": "Everything feels hopeless and nothing will ever change.",
+        "model_response": "You feel like no matter how hard you try, things just stay stuck and that's really tough to deal with. Can you tell me more about what specifically makes you feel this way? Is there something recent that triggered these feelings for you?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.863,
+            "emotions_confirmed": [
+                "Sadness",
+                "Happiness",
+                "Joy",
+                "Optimism"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "frustration",
+                    "positive_progress"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 10,
+        "Domain": "Depression",
+        "Criterion": "Thoughts of death, suicidal ideation or attempt",
+        "client_message": "I want to kill myself.",
+        "model_response": "I'm really glad you reached out, and I want you to know I'm here with you.\n\nWhat you're going through sounds incredibly painful, and you deserve real support right now — more than I'm able to provide alone.\n\n🆘 Please reach out to a crisis professional immediately:\n\n  • iCall (India):              9152987821  (Mon–Sat 8am–10pm)\n  • Vandrevala Foundation:      1860-2662-345 (24/7)\n  • NIMHANS (Bengaluru):        080-46110007\n  • International Association:  https://www.iasp.info/resources/Crisis_Centres/\n\nIf you are in immediate danger, please call 112 (India emergency services).\n\nYou are not alone. Would you like to talk about what's been happening?\n",
+        "metadata": {
+            "emotion": "crisis",
+            "behaviour": "Help_Seeking",
+            "crisis_flag": "true",
+            "disorders": [],
+            "techniques": [],
+            "confidence": 1.0
+        }
+    },
+    {
+        "row_index": 11,
+        "Domain": "nan",
+        "Criterion": "nan",
+        "client_message": "I've been thinking about ending my life.",
+        "model_response": "You're feeling overwhelmed and that thought keeps recurring. It sounds like there's an enormous weight on you, making everyday tasks feel almost impossible to manage. Your sense of hopelessness is palpable too... Can you tell me more about when these thoughts started, what triggers them?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Active_Coping",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.855,
+            "emotions_confirmed": [
+                "Sadness",
+                "Fear",
+                "Joy",
+                "Anxiety"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "fear",
+                    "anger"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 12,
+        "Domain": "nan",
+        "Criterion": "nan",
+        "client_message": "This deadline is killing me.",
+        "model_response": "It sounds like there's something weighing heavily on you, making time feel really tight just now. Can you tell me more about that deadline? What makes it feel especially overwhelming for you?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder",
+                "PersonalityDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.858,
+            "emotions_confirmed": [
+                "Sadness",
+                "Fear",
+                "Craving",
+                "Stress"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "frustration",
+                    "anger"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 13,
+        "Domain": "Depression",
+        "Criterion": "At least 5 symptoms (one core) for 2 weeks",
+        "client_message": "I can't fall asleep and I lie awake until 4am. | Nothing special today. | I can't fall asleep and I lie awake until 4am.",
+        "model_response": "It sounds like sleep's been really elusive for you lately, especially at those early morning hours. You mentioned nothing out of the ordinary happened today, but still found yourself lying awake till late at night. Can you tell me more about how that feels when you're lying there? What kind of thoughts or sensations come up during those long stretches before dawn?",
+        "metadata": {
+            "emotion": "neutral",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "BipolarTypeIDisorder",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "BehaviouralActivation",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.393,
+            "emotions_confirmed": [
+                "Neutral"
+            ],
+            "contexts": [
+                "LifeTransition"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "BipolarTypeIDisorder",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "neutral",
+                    "frustration",
+                    "sadness"
+                ],
+                "overall_theme": "big mood swings",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 14,
+        "Domain": "Depression",
+        "Criterion": "Distress or impairment",
+        "client_message": "It has been affecting my work and I missed class twice.",
+        "model_response": "You're feeling really struggling to cope with things at home spilling over into other areas of life - like work and even something important to you like school... How are classes otherwise? What was going through your mind when you had to miss those two times?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.846,
+            "emotions_confirmed": [
+                "Sadness",
+                "Confusion",
+                "Anxiety",
+                "Worry"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "frustration",
+                    "neutral"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 15,
+        "Domain": "Depression",
+        "Criterion": "Not due to substance or medical cause; no psychosis or mania",
+        "client_message": "— (no utterance-level example)",
+        "model_response": "It sounds like we're just starting out today. Can you tell me more about why you decided to come see someone? What's been going on that feels stuck for you?\n\n(Please respond as if you were having a real conversation with an AI therapist.)",
+        "metadata": {
+            "emotion": "neutral",
+            "behaviour": "Conversational_Act",
+            "crisis_flag": "false",
+            "disorders": [
+                "BipolarTypeIDisorder",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "BehaviouralActivation",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.339,
+            "emotions_confirmed": [
+                "Neutral"
+            ],
+            "contexts": [
+                "WorkStress"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "BipolarTypeIDisorder",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "neutral",
+                    "frustration",
+                    "anger"
+                ],
+                "overall_theme": "big mood swings",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 16,
+        "Domain": "Anxiety",
+        "Criterion": "Excessive worry about multiple things, or free-floating apprehension",
+        "client_message": "I'm worrying constantly about everything.",
+        "model_response": "It sounds like these worries can feel overwhelming at times... Can you tell me more about what's on your mind? What specifically keeps popping up as things that might go wrong for you?",
+        "metadata": {
+            "emotion": "anxiety",
+            "behaviour": "Rumination",
+            "crisis_flag": "false",
+            "disorders": [
+                "GeneralizedAnxietyDisorder",
+                "SocialAnxietyDisorder",
+                "PanicDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "GroundingExercise",
+                "BehaviouralActivation",
+                "ThoughtRecord",
+                "DistressToleranceSkills",
+                "EmotionRegulationSkills"
+            ],
+            "confidence": 0.882,
+            "emotions_confirmed": [
+                "Anxiety",
+                "Shame",
+                "Shame_Clinical",
+                "Stress"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "HealthAnxiety",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "GeneralizedAnxietyDisorder",
+                    "SocialAnxietyDisorder"
+                ],
+                "dominant_emotions": [
+                    "anxiety",
+                    "fear",
+                    "positive_progress"
+                ],
+                "overall_theme": "ongoing worry / anxiety",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 17,
+        "Domain": "nan",
+        "Criterion": "nan",
+        "client_message": "I keep worrying about everything that could go wrong tomorrow.",
+        "model_response": "It sounds like these worries feel overwhelming and are keeping you up at night. Can you tell me more about what specifically comes to mind as things that might go wrong? Is there one particular situation or area where your worries tend to focus?",
+        "metadata": {
+            "emotion": "anxiety",
+            "behaviour": "Rumination",
+            "crisis_flag": "false",
+            "disorders": [
+                "GeneralizedAnxietyDisorder",
+                "SpecificPhobia",
+                "SocialAnxietyDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "GroundingExercise",
+                "BehaviouralActivation",
+                "ThoughtRecord",
+                "DistressToleranceSkills",
+                "EmotionRegulationSkills"
+            ],
+            "confidence": 0.884,
+            "emotions_confirmed": [
+                "Anxiety",
+                "Fear",
+                "Worry",
+                "Nervousness"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "HealthAnxiety",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "GeneralizedAnxietyDisorder",
+                    "SpecificPhobia"
+                ],
+                "dominant_emotions": [
+                    "anxiety",
+                    "fear",
+                    "sadness"
+                ],
+                "overall_theme": "ongoing worry / anxiety",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 18,
+        "Domain": "Anxiety",
+        "Criterion": "Worry is hard to control",
+        "client_message": "I can't stop worrying, my mind won't stop.",
+        "model_response": "It sounds like there's been an overwhelming amount of mental chatter going on lately - worry that just keeps building up. Can you tell me more about what specifically triggers these worries? Is there something particular that your mind starts racing over when these feelings take hold?",
+        "metadata": {
+            "emotion": "fear",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "GeneralizedAnxietyDisorder",
+                "SocialAnxietyDisorder",
+                "AttentionDeficitHyperactivityDisorder"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.85,
+            "emotions_confirmed": [
+                "Fear",
+                "Anxiety",
+                "Anger",
+                "Joy"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "GeneralizedAnxietyDisorder"
+                ],
+                "dominant_emotions": [
+                    "fear",
+                    "anxiety",
+                    "sadness"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 19,
+        "Domain": "Anxiety",
+        "Criterion": "Restlessness, feeling on edge",
+        "client_message": "I'm so restless and on edge all day.",
+        "model_response": "You're feeling like there's no calm space within yourself, even in quiet moments? It sounds like these feelings of restlessness might be really disrupting your daily life. Can you tell me more about when this sense of being on edge started for you - was it linked to anything in particular, or did it just seem to creep up over time?",
+        "metadata": {
+            "emotion": "anxiety",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "GeneralizedAnxietyDisorder",
+                "SocialAnxietyDisorder",
+                "PanicDisorder",
+                "BipolarTypeIDisorder"
+            ],
+            "techniques": [
+                "GroundingExercise",
+                "BehaviouralActivation",
+                "ThoughtRecord",
+                "DistressToleranceSkills",
+                "EmotionRegulationSkills"
+            ],
+            "confidence": 0.856,
+            "emotions_confirmed": [
+                "Anxiety",
+                "Stress",
+                "Loneliness"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "HealthAnxiety",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "GeneralizedAnxietyDisorder",
+                    "SocialAnxietyDisorder"
+                ],
+                "dominant_emotions": [
+                    "anxiety",
+                    "positive_progress",
+                    "fear"
+                ],
+                "overall_theme": "ongoing worry / anxiety",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 20,
+        "Domain": "Anxiety",
+        "Criterion": "Easily fatigued",
+        "client_message": "I'm exhausted all the time.",
+        "model_response": "It sounds like fatigue is really weighing on you right now. Can you tell me more about what an average day looks like for you? What's been most affected by feeling tired - are there certain things that used to bring you joy but now feel too much effort?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder",
+                "BipolarTypeIDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.872,
+            "emotions_confirmed": [
+                "Sadness",
+                "Stress",
+                "Loneliness",
+                "Overwhelmed"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "neutral",
+                    "frustration"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 21,
+        "Domain": "Anxiety",
+        "Criterion": "Poor concentration, mind going blank",
+        "client_message": "I can't concentrate on anything at work.",
+        "model_response": "You're feeling like you've lost your usual spark and energy for things that normally interest you... even something as important as your job seems really hard to engage with these days. That must feel quite frustrating. Can you tell me more about what's been going through your mind when you try to tackle tasks? What specifically feels overwhelming or just impossible to start?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Avoidance",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder",
+                "GeneralizedAnxietyDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.878,
+            "emotions_confirmed": [
+                "Sadness",
+                "Stress",
+                "Loneliness",
+                "Joy"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "neutral",
+                    "frustration"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 22,
+        "Domain": "Anxiety",
+        "Criterion": "Irritability",
+        "client_message": "I keep snapping at my team, I'm so irritable.",
+        "model_response": "It sounds like being around others can feel really frustrating for you lately. Your irritability seems to be getting triggered pretty easily, even by people who normally make you feel okay... your team. That must be tough on all of you. Can you tell me more about how these outbursts happen? What's usually going through your mind when they start?",
+        "metadata": {
+            "emotion": "anger",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "IntermittentExplosiveDisorder",
+                "OppositionalDefiantDisorder",
+                "PostTraumaticStressDisorder",
+                "GeneralizedAnxietyDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "JournallingOrThoughtRecords",
+                "TraumaProcessing"
+            ],
+            "confidence": 0.844,
+            "emotions_confirmed": [
+                "Anger",
+                "Frustration",
+                "Stress",
+                "Loneliness"
+            ],
+            "contexts": [
+                "AcademicPressure",
+                "RelationshipConflict",
+                "FamilyStress",
+                "TraumaticEvent"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "IntermittentExplosiveDisorder",
+                    "OppositionalDefiantDisorder"
+                ],
+                "dominant_emotions": [
+                    "anger",
+                    "frustration",
+                    "sadness"
+                ],
+                "overall_theme": "IntermittentExplosiveDisorder",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 23,
+        "Domain": "nan",
+        "Criterion": "nan",
+        "client_message": "I'm so tense and I keep snapping at everyone.",
+        "model_response": "It sounds like being on edge is really affecting how you interact with others - it's like there's an extra layer of frustration and irritability under the surface when things aren't going as planned for you. Can you tell me more about what happens before these outbursts? Is there something that sets off this tension inside you?",
+        "metadata": {
+            "emotion": "fear",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "GeneralizedAnxietyDisorder",
+                "SocialAnxietyDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.834,
+            "emotions_confirmed": [
+                "Fear",
+                "Anxiety",
+                "Anger",
+                "Stress"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "GeneralizedAnxietyDisorder"
+                ],
+                "dominant_emotions": [
+                    "fear",
+                    "anxiety",
+                    "anger"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 24,
+        "Domain": "Anxiety",
+        "Criterion": "Muscle tension",
+        "client_message": "I have constant muscle tension in my shoulders.",
+        "model_response": "That must make everyday tasks feel like an added strain on top of everything else. You've mentioned feeling irritable lately too - how does that connect for you with having all this physical discomfort?",
+        "metadata": {
+            "emotion": "neutral",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "BipolarTypeIDisorder",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder",
+                "GeneralizedAnxietyDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "BehaviouralActivation",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.357,
+            "emotions_confirmed": [
+                "Neutral",
+                "Relief",
+                "Stress",
+                "Loneliness"
+            ],
+            "contexts": [],
+            "session_profile": {
+                "dominant_disorders": [
+                    "BipolarTypeIDisorder",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "neutral",
+                    "positive_progress",
+                    "anger"
+                ],
+                "overall_theme": "big mood swings",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 25,
+        "Domain": "Anxiety",
+        "Criterion": "Sleep disturbance",
+        "client_message": "I can't fall asleep and I lie awake until 4am.",
+        "model_response": "It sounds like sleep disturbance is really affecting you, and getting enough rest feels out of reach lately. Can you tell me more about how that's impacting your daily life? What are some things that usually bring joy or energy for you, but feel harder to enjoy when you're tired all the time?",
+        "metadata": {
+            "emotion": "neutral",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "BipolarTypeIDisorder",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder",
+                "NarcissisticPersonalityDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "BehaviouralActivation",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.405,
+            "emotions_confirmed": [
+                "Neutral",
+                "Fear",
+                "Joy",
+                "Anxiety"
+            ],
+            "contexts": [],
+            "session_profile": {
+                "dominant_disorders": [
+                    "BipolarTypeIDisorder",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "neutral",
+                    "positive_progress",
+                    "frustration"
+                ],
+                "overall_theme": "big mood swings",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 26,
+        "Domain": "Anxiety",
+        "Criterion": "Autonomic overactivity (palpitations, sweating, gut symptoms)",
+        "client_message": "My heart is racing whenever I open my email.",
+        "model_response": "That feels overwhelming... Let's take a deep breath together. Can you notice where your feet touch the floor right now? Just those two points on either side of your ankles... Feel the weight of your chair beneath you too... As we breathe slowly in together, try with me to let go of some tension from head to toes. Inhale slowly for four counts, just like our next steps might be manageable... (pause briefly before continuing with the next instruction) Now exhale gradually over six counts...",
+        "metadata": {
+            "emotion": "positive_progress",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "BipolarTypeIDisorder",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder",
+                "PersonalityDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "BehaviouralActivation",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.367,
+            "emotions_confirmed": [
+                "PositiveProgress",
+                "Stress",
+                "Loneliness",
+                "Fear"
+            ],
+            "contexts": [],
+            "session_profile": {
+                "dominant_disorders": [
+                    "BipolarTypeIDisorder",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "positive_progress",
+                    "fear",
+                    "anxiety"
+                ],
+                "overall_theme": "big mood swings",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 27,
+        "Domain": "nan",
+        "Criterion": "nan",
+        "client_message": "I was sweating through my shirt.",
+        "model_response": "It sounds like those were some intense feelings - physically as well as emotionally, judging by how they affected you. Can you tell me more about that moment? What specifically triggered those emotions for you when...",
+        "metadata": {
+            "emotion": "anger",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "IntermittentExplosiveDisorder",
+                "OppositionalDefiantDisorder",
+                "PostTraumaticStressDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "JournallingOrThoughtRecords",
+                "TraumaProcessing"
+            ],
+            "confidence": 0.853,
+            "emotions_confirmed": [
+                "Anger"
+            ],
+            "contexts": [
+                "AcademicPressure",
+                "RelationshipConflict",
+                "FamilyStress",
+                "TraumaticEvent"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "IntermittentExplosiveDisorder",
+                    "OppositionalDefiantDisorder"
+                ],
+                "dominant_emotions": [
+                    "anger",
+                    "positive_progress",
+                    "fear"
+                ],
+                "overall_theme": "IntermittentExplosiveDisorder",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 28,
+        "Domain": "nan",
+        "Criterion": "nan",
+        "client_message": "I feel nauseous every morning.",
+        "model_response": "That sounds like an awful way to start the day - physically as well as emotionally. Can you tell me more about how that nausea affects you beyond just feeling unwell? Is there anything else going on that seems connected to those mornings when your body feels queasy?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.869,
+            "emotions_confirmed": [
+                "Sadness",
+                "Optimism"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "fear",
+                    "anger"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 29,
+        "Domain": "Anxiety",
+        "Criterion": "Duration: 6 months, or several months",
+        "client_message": "I can't fall asleep and I lie awake until 4am. | Nothing special today. | I can't fall asleep and I lie awake until 4am.",
+        "model_response": "You've been lying awake till 4 am quite regularly lately. It's like your body has developed its own rhythm that doesn't seem to match up with when most people feel ready for bed. Can you tell me more about how you're feeling just before those late nights? What does your mind usually start racing or worrying about during that time?",
+        "metadata": {
+            "emotion": "neutral",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "BipolarTypeIDisorder",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "BehaviouralActivation",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.393,
+            "emotions_confirmed": [
+                "Neutral"
+            ],
+            "contexts": [
+                "LifeTransition"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "BipolarTypeIDisorder",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "neutral",
+                    "frustration",
+                    "sadness"
+                ],
+                "overall_theme": "big mood swings",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 30,
+        "Domain": "Anxiety",
+        "Criterion": "Recurrent, unexpected panic attacks",
+        "client_message": "I can't fall asleep and I lie awake until 4am. | Nothing special today. | I can't fall asleep and I lie awake until 4am.",
+        "model_response": "You've mentioned that sleep hasn't been going well for you lately - lying awake till 4 am feels like an exhausting experience in itself. Can you tell me more about what's on your mind when you're trying to drift off? Is there anything that comes up consistently around bedtime or during those long hours before dawn?",
+        "metadata": {
+            "emotion": "neutral",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "BipolarTypeIDisorder",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "BehaviouralActivation",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.393,
+            "emotions_confirmed": [
+                "Neutral"
+            ],
+            "contexts": [
+                "LifeTransition"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "BipolarTypeIDisorder",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "neutral",
+                    "frustration",
+                    "sadness"
+                ],
+                "overall_theme": "big mood swings",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 31,
+        "Domain": "Anxiety",
+        "Criterion": "Abrupt surge of intense fear peaking within minutes",
+        "client_message": "I had a panic attack on the train.",
+        "model_response": "You're feeling really overwhelmed right now. It's okay to take some deep breaths together... Can you notice where your feet are touching? What sensation does the ground have beneath you? Just focus on that for a second.",
+        "metadata": {
+            "emotion": "fear",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "GeneralizedAnxietyDisorder",
+                "SocialAnxietyDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.902,
+            "emotions_confirmed": [
+                "Fear",
+                "Anxiety",
+                "Panic",
+                "Sadness"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "GeneralizedAnxietyDisorder"
+                ],
+                "dominant_emotions": [
+                    "fear",
+                    "anxiety",
+                    "sadness"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 32,
+        "Domain": "Anxiety",
+        "Criterion": "Palpitations, pounding or racing heart",
+        "client_message": "My heart is racing whenever I open my email.",
+        "model_response": "You're feeling really overwhelmed by something as simple as checking your emails right now... Can you bring your attention to what's around you physically? What can you notice about where we are sitting, or how your chair feels beneath you? Just taking a tiny moment to connect with our surroundings might be helpful. Shall we take just one deep breath together, slowly inhaling for a count of four, holding for two, and exhaling for six? Would you like me to start counting?",
+        "metadata": {
+            "emotion": "positive_progress",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "BipolarTypeIDisorder",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder",
+                "PersonalityDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "BehaviouralActivation",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.367,
+            "emotions_confirmed": [
+                "PositiveProgress",
+                "Stress",
+                "Loneliness",
+                "Fear"
+            ],
+            "contexts": [],
+            "session_profile": {
+                "dominant_disorders": [
+                    "BipolarTypeIDisorder",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "positive_progress",
+                    "fear",
+                    "anxiety"
+                ],
+                "overall_theme": "big mood swings",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 33,
+        "Domain": "Anxiety",
+        "Criterion": "Sweating",
+        "client_message": "I was sweating through my shirt.",
+        "model_response": "You were really upset that day - physically shaking too. Can I gently guess that something happened just before you got like that? What had been going on beforehand?",
+        "metadata": {
+            "emotion": "anger",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "IntermittentExplosiveDisorder",
+                "OppositionalDefiantDisorder",
+                "PostTraumaticStressDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "JournallingOrThoughtRecords",
+                "TraumaProcessing"
+            ],
+            "confidence": 0.853,
+            "emotions_confirmed": [
+                "Anger"
+            ],
+            "contexts": [
+                "AcademicPressure",
+                "RelationshipConflict",
+                "FamilyStress",
+                "TraumaticEvent"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "IntermittentExplosiveDisorder",
+                    "OppositionalDefiantDisorder"
+                ],
+                "dominant_emotions": [
+                    "anger",
+                    "positive_progress",
+                    "fear"
+                ],
+                "overall_theme": "IntermittentExplosiveDisorder",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 34,
+        "Domain": "Anxiety",
+        "Criterion": "Trembling or shaking",
+        "client_message": "My hands were trembling.",
+        "model_response": "You'd been looking forward to that event all week, but those few minutes before going out felt like an eternity - every little thing seemed amplified, making it hard for you even to take a deep breath. Am I getting close? What was running through your mind as you sat there feeling anxious?",
+        "metadata": {
+            "emotion": "fear",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "PostTraumaticStressDisorder",
+                "PanicDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.841,
+            "emotions_confirmed": [
+                "Fear",
+                "Happiness",
+                "Nervousness",
+                "Optimism"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "PostTraumaticStressDisorder"
+                ],
+                "dominant_emotions": [
+                    "fear",
+                    "anxiety",
+                    "positive_progress"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 35,
+        "Domain": "Anxiety",
+        "Criterion": "Shortness of breath or smothering",
+        "client_message": "I get short of breath when it starts.",
+        "model_response": "You're saying that even before things escalate into something bigger, just getting started on dealing with these feelings can feel overwhelming enough to make you breathe more shallowly? It sounds like there's already some physical discomfort present alongside those emotions...",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Avoidance",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.853,
+            "emotions_confirmed": [
+                "Sadness"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "anxiety",
+                    "fear"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 36,
+        "Domain": "Anxiety",
+        "Criterion": "Feeling of choking",
+        "client_message": "It felt like my throat was closing, like I was choking.",
+        "model_response": "That must have been terrifying - feeling trapped like that can be really overwhelming. Can you tell me more about what happened just before those feelings came up? Was there something in particular that triggered it, or did it seem to come out of nowhere?",
+        "metadata": {
+            "emotion": "fear",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.871,
+            "emotions_confirmed": [
+                "Fear",
+                "Sadness",
+                "Anxiety"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "fear",
+                    "sadness",
+                    "anger"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 37,
+        "Domain": "Anxiety",
+        "Criterion": "Chest pain or discomfort",
+        "client_message": "I get chest tightness during these episodes.",
+        "model_response": "You've been experiencing physical symptoms like muscle tension and pain - that chest tightness can feel really overwhelming, I imagine. What's going on when those feelings come up for you?",
+        "metadata": {
+            "emotion": "anxiety",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "GeneralizedAnxietyDisorder",
+                "SocialAnxietyDisorder",
+                "PanicDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "GroundingExercise",
+                "BehaviouralActivation",
+                "ThoughtRecord",
+                "DistressToleranceSkills",
+                "EmotionRegulationSkills"
+            ],
+            "confidence": 0.82,
+            "emotions_confirmed": [
+                "Anxiety",
+                "Optimism",
+                "Hopeful",
+                "Nervousness"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "HealthAnxiety",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "GeneralizedAnxietyDisorder",
+                    "SocialAnxietyDisorder"
+                ],
+                "dominant_emotions": [
+                    "anxiety",
+                    "fear",
+                    "positive_progress"
+                ],
+                "overall_theme": "ongoing worry / anxiety",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 38,
+        "Domain": "Anxiety",
+        "Criterion": "Nausea or abdominal distress",
+        "client_message": "I feel nauseous every morning.",
+        "model_response": "You wake up feeling unwell enough that nausea's an immediate concern – it's like there's already something pressing against you before even getting out of bed. What does that morning sickness make it hard for you to face?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.869,
+            "emotions_confirmed": [
+                "Sadness",
+                "Optimism"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "fear",
+                    "anger"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 39,
+        "Domain": "Anxiety",
+        "Criterion": "Dizziness, light-headedness or feeling faint",
+        "client_message": "I felt dizzy and light-headed.",
+        "model_response": "You've been feeling really disconnected from your body lately, like things aren't quite grounded - that dizziness must be unsettling for you. Can you tell me more about when these feelings started? Was there something specific that triggered it, or did they just kind of creep up on you?",
+        "metadata": {
+            "emotion": "anxiety",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "GeneralizedAnxietyDisorder",
+                "SocialAnxietyDisorder",
+                "PanicDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "GroundingExercise",
+                "BehaviouralActivation",
+                "ThoughtRecord",
+                "DistressToleranceSkills",
+                "EmotionRegulationSkills"
+            ],
+            "confidence": 0.85,
+            "emotions_confirmed": [
+                "Anxiety",
+                "Fear"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "HealthAnxiety",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "GeneralizedAnxietyDisorder",
+                    "SocialAnxietyDisorder"
+                ],
+                "dominant_emotions": [
+                    "anxiety",
+                    "fear",
+                    "sadness"
+                ],
+                "overall_theme": "ongoing worry / anxiety",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 40,
+        "Domain": "Anxiety",
+        "Criterion": "Chills or heat sensations",
+        "client_message": "I get chills and then hot flushes.",
+        "model_response": "You've been experiencing these physical sensations quite suddenly, without warning - like having two contrasting emotions all at once. Can you tell me more about when they happen? What's usually going on just before these feelings kick in for you?",
+        "metadata": {
+            "emotion": "positive_progress",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "BipolarTypeIDisorder",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "BehaviouralActivation",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.359,
+            "emotions_confirmed": [
+                "PositiveProgress",
+                "Fear"
+            ],
+            "contexts": [],
+            "session_profile": {
+                "dominant_disorders": [
+                    "BipolarTypeIDisorder",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "positive_progress",
+                    "neutral",
+                    "fear"
+                ],
+                "overall_theme": "big mood swings",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 41,
+        "Domain": "Anxiety",
+        "Criterion": "Numbness or tingling",
+        "client_message": "I get tingling in my hands.",
+        "model_response": "You're noticing some physical sensations that seem connected to those unexpected panic attacks. Can you tell me more about these tinglings - how long they last, where exactly on your body they occur?",
+        "metadata": {
+            "emotion": "positive_progress",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "PostTraumaticStressDisorder",
+                "PanicDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.823,
+            "emotions_confirmed": [
+                "PositiveProgress",
+                "Fear",
+                "Anxiety",
+                "Nervousness"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "PostTraumaticStressDisorder"
+                ],
+                "dominant_emotions": [
+                    "positive_progress",
+                    "fear",
+                    "anger"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 42,
+        "Domain": "Anxiety",
+        "Criterion": "Derealization or depersonalization",
+        "client_message": "Everything feels unreal, like I'm outside my body.",
+        "model_response": "That feeling can be really unsettling. It sounds like you're struggling to connect with yourself on some level, which must make everyday things feel even more difficult. Can you tell me more about when these feelings started for you? Was there something that triggered it, or did they just sort of creep up over time?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder",
+                "DissociativeIdentityDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.85,
+            "emotions_confirmed": [
+                "Sadness",
+                "Anxiety"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "positive_progress",
+                    "neutral"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 43,
+        "Domain": "Anxiety",
+        "Criterion": "Fear of losing control or 'going mad'",
+        "client_message": "I'm scared I'm going crazy.",
+        "model_response": "You're feeling really overwhelmed right now... Can you take a deep breath in slowly for me? Just breathe in for a count of four, like counting \"one thousand\" to yourself... And then exhale slowly for six counts as well... Let's just focus on our bodies relaxing with each exhalation. What can you notice happening below your waist when we breathe out together?",
+        "metadata": {
+            "emotion": "fear",
+            "behaviour": "Rumination",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "PostTraumaticStressDisorder",
+                "PanicDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.853,
+            "emotions_confirmed": [
+                "Fear",
+                "Happiness"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "PostTraumaticStressDisorder"
+                ],
+                "dominant_emotions": [
+                    "fear",
+                    "anger",
+                    "sadness"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 44,
+        "Domain": "Anxiety",
+        "Criterion": "Fear of dying",
+        "client_message": "In the attack I thought I was dying.",
+        "model_response": "It sounds like those moments were incredibly overwhelming for you. Can you tell me more about what happened just before that feeling took over? What led up to you thinking you might be having some kind of medical emergency?",
+        "metadata": {
+            "emotion": "fear",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "PostTraumaticStressDisorder",
+                "PanicDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.848,
+            "emotions_confirmed": [
+                "Fear",
+                "Grief",
+                "Confusion"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "PostTraumaticStressDisorder"
+                ],
+                "dominant_emotions": [
+                    "fear",
+                    "sadness",
+                    "neutral"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 45,
+        "Domain": "nan",
+        "Criterion": "nan",
+        "client_message": "In the attack I thought I was going to die and I want to kill myself.",
+        "model_response": "I'm really glad you reached out, and I want you to know I'm here with you.\n\nWhat you're going through sounds incredibly painful, and you deserve real support right now — more than I'm able to provide alone.\n\n🆘 Please reach out to a crisis professional immediately:\n\n  • iCall (India):              9152987821  (Mon–Sat 8am–10pm)\n  • Vandrevala Foundation:      1860-2662-345 (24/7)\n  • NIMHANS (Bengaluru):        080-46110007\n  • International Association:  https://www.iasp.info/resources/Crisis_Centres/\n\nIf you are in immediate danger, please call 112 (India emergency services).\n\nYou are not alone. Would you like to talk about what's been happening?\n",
+        "metadata": {
+            "emotion": "crisis",
+            "behaviour": "Help_Seeking",
+            "crisis_flag": "true",
+            "disorders": [],
+            "techniques": [],
+            "confidence": 1.0
+        }
+    },
+    {
+        "row_index": 46,
+        "Domain": "Anxiety",
+        "Criterion": "Persistent worry about further attacks or their consequences (1 month)",
+        "client_message": "I dread having another panic attack.",
+        "model_response": "It's like there's a weight on top of you right now. Let's take just one breath together... Can you feel your feet planted firmly on the ground? What kind of surface are they touching - floor, carpet, something else?",
+        "metadata": {
+            "emotion": "fear",
+            "behaviour": "Rumination",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "PostTraumaticStressDisorder",
+                "PanicDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.882,
+            "emotions_confirmed": [
+                "Fear",
+                "Sadness",
+                "Stress",
+                "Panic"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "PostTraumaticStressDisorder"
+                ],
+                "dominant_emotions": [
+                    "fear",
+                    "anxiety",
+                    "anger"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 47,
+        "Domain": "Anxiety",
+        "Criterion": "Avoidance or other behaviour change to prevent attacks",
+        "client_message": "I avoid going out because I'm scared I'll have another panic attack.",
+        "model_response": "It sounds like right now, every breath feels uncertain. Can we try taking just three deep breaths together? Inhaling slowly... for a count of four... then exhaling more slowly... for a count of six. Just notice how your chest rises as you breathe in, and falls as you breathe out. What's touching your skin right below us, on the chair?",
+        "metadata": {
+            "emotion": "fear",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "PostTraumaticStressDisorder",
+                "PanicDisorder",
+                "SocialAnxietyDisorder"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.88,
+            "emotions_confirmed": [
+                "Fear",
+                "Stress",
+                "Anxiety",
+                "Loneliness"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "PostTraumaticStressDisorder"
+                ],
+                "dominant_emotions": [
+                    "fear",
+                    "anxiety",
+                    "sadness"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 48,
+        "Domain": "Anxiety",
+        "Criterion": "Not due to substance or medical cause; not better explained",
+        "client_message": "— (no utterance-level example)",
+        "model_response": "I'm glad we could meet today. Can you tell me more about how these panic symptoms have been affecting you lately? What's one thing that stands out as particularly challenging for you during an episode?",
+        "metadata": {
+            "emotion": "neutral",
+            "behaviour": "Conversational_Act",
+            "crisis_flag": "false",
+            "disorders": [
+                "BipolarTypeIDisorder",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "BehaviouralActivation",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.339,
+            "emotions_confirmed": [
+                "Neutral"
+            ],
+            "contexts": [
+                "WorkStress"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "BipolarTypeIDisorder",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "neutral",
+                    "frustration",
+                    "anger"
+                ],
+                "overall_theme": "big mood swings",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 49,
+        "Domain": "Anxiety",
+        "Criterion": "Fear or anxiety in at least 2 situation types: public transport, open spaces, enclosed spaces, queues or crowds, being outside home alone",
+        "client_message": "I'm terrified of crowded buses.",
+        "model_response": "It sounds like being on a busy bus triggers some intense feelings for you - can you tell me more about what happens just before these panic attacks start? What's going through your mind when you're getting ready to get on the bus, waiting at the stop, or as soon as you step inside?",
+        "metadata": {
+            "emotion": "fear",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "PostTraumaticStressDisorder",
+                "PanicDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.875,
+            "emotions_confirmed": [
+                "Fear",
+                "Anxiety"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "PostTraumaticStressDisorder"
+                ],
+                "dominant_emotions": [
+                    "fear",
+                    "anger",
+                    "anxiety"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 50,
+        "Domain": "nan",
+        "Criterion": "nan",
+        "client_message": "I'm terrified of crowded buses and I can't take the lift, and I won't leave the house alone.",
+        "model_response": "It sounds like right now, you're feeling really overwhelmed by these fears. You mentioned being terrified of crowded buses - would it feel okay if we took just a deep breath together? Inhale slowly with me... counting to four as we breathe in... hold it for a brief second... then exhaling more slowly still to six. Just focus on our breathing rhythm for now... can you notice how my voice is calm and steady beside yours? Now, bring your attention down to where your feet touch the floor; feel any weight or pressure there, just resting quietly beneath you. Let's stay here for a moment, getting grounded in this peaceful space around us.",
+        "metadata": {
+            "emotion": "fear",
+            "behaviour": "Rumination",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "PostTraumaticStressDisorder",
+                "PanicDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.879,
+            "emotions_confirmed": [
+                "Fear",
+                "Nervousness",
+                "Anxiety"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "PostTraumaticStressDisorder"
+                ],
+                "dominant_emotions": [
+                    "fear",
+                    "anger",
+                    "sadness"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 51,
+        "Domain": "Anxiety",
+        "Criterion": "Fear arises because escape may be hard or help unavailable if panic-like or embarrassing symptoms occur",
+        "client_message": "I'm afraid of being trapped and nobody would help.",
+        "model_response": "It sounds like there's a deep-seated worry that you might get stuck somewhere or situation, without anyone available to assist you. Can you tell me more about what triggers this feeling for you? Is it related to past experiences or something else entirely?",
+        "metadata": {
+            "emotion": "fear",
+            "behaviour": "Rumination",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "PostTraumaticStressDisorder",
+                "PanicDisorder",
+                "Schizophrenia"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.85,
+            "emotions_confirmed": [
+                "Fear",
+                "Anger",
+                "Calm",
+                "Anxiety"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "PostTraumaticStressDisorder"
+                ],
+                "dominant_emotions": [
+                    "fear",
+                    "anxiety",
+                    "sadness"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 52,
+        "Domain": "Anxiety",
+        "Criterion": "Situations almost always provoke fear",
+        "client_message": "I can't fall asleep and I lie awake until 4am. | Nothing special today. | I can't fall asleep and I lie awake until 4am.",
+        "model_response": "It sounds like sleep's been really struggling for you lately. Can you tell me more about what goes through your mind when you're lying there awake at 4 am? What are some of those thoughts that make it hard to drift off back to sleep?",
+        "metadata": {
+            "emotion": "neutral",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "BipolarTypeIDisorder",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "BehaviouralActivation",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.393,
+            "emotions_confirmed": [
+                "Neutral"
+            ],
+            "contexts": [
+                "LifeTransition"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "BipolarTypeIDisorder",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "neutral",
+                    "frustration",
+                    "sadness"
+                ],
+                "overall_theme": "big mood swings",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 53,
+        "Domain": "Anxiety",
+        "Criterion": "Situations avoided, entered only with a companion, or endured with intense fear",
+        "client_message": "I avoid going out because I'm scared I'll have another panic attack.",
+        "model_response": "You're feeling really frightened right now about having another panic attack when you're outside... That must be incredibly unsettling. Can you tell me where you are sitting right now? What's touching your skin?\"",
+        "metadata": {
+            "emotion": "fear",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "PostTraumaticStressDisorder",
+                "PanicDisorder",
+                "SocialAnxietyDisorder"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.88,
+            "emotions_confirmed": [
+                "Fear",
+                "Stress",
+                "Anxiety",
+                "Loneliness"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "PostTraumaticStressDisorder"
+                ],
+                "dominant_emotions": [
+                    "fear",
+                    "anxiety",
+                    "sadness"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 54,
+        "Domain": "nan",
+        "Criterion": "nan",
+        "client_message": "I can't go out alone, I need someone with me.",
+        "model_response": "It feels really overwhelming to face everyday tasks on your own right now... Can you tell me more about what's making going out feel like such an impossibility? What are some things that make you especially anxious when you're alone outside your home?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Conversational_Act",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.885,
+            "emotions_confirmed": [
+                "Sadness",
+                "Loneliness",
+                "Optimism"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "fear",
+                    "neutral"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 55,
+        "Domain": "Anxiety",
+        "Criterion": "Fear out of proportion to the actual danger",
+        "client_message": "— (no utterance-level example)",
+        "model_response": "You've been dealing with some really intense emotions lately - can you tell me more about what's been going on? What happens just before one of these episodes for you?",
+        "metadata": {
+            "emotion": "neutral",
+            "behaviour": "Conversational_Act",
+            "crisis_flag": "false",
+            "disorders": [
+                "BipolarTypeIDisorder",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "BehaviouralActivation",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.339,
+            "emotions_confirmed": [
+                "Neutral"
+            ],
+            "contexts": [
+                "WorkStress"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "BipolarTypeIDisorder",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "neutral",
+                    "frustration",
+                    "anger"
+                ],
+                "overall_theme": "big mood swings",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 56,
+        "Domain": "Anxiety",
+        "Criterion": "Duration: 6 months, or several months",
+        "client_message": "I can't fall asleep and I lie awake until 4am. | Nothing special today. | I can't fall asleep and I lie awake until 4am.",
+        "model_response": "You're having trouble sleeping through till morning, that's been pretty constant for a while now... Can you tell me more about how these long nights are affecting your daily life?",
+        "metadata": {
+            "emotion": "neutral",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "BipolarTypeIDisorder",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "BehaviouralActivation",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.393,
+            "emotions_confirmed": [
+                "Neutral"
+            ],
+            "contexts": [
+                "LifeTransition"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "BipolarTypeIDisorder",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "neutral",
+                    "frustration",
+                    "sadness"
+                ],
+                "overall_theme": "big mood swings",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 57,
+        "Domain": "Anxiety",
+        "Criterion": "Distress or impairment",
+        "client_message": "It has been affecting my work and I missed class twice.",
+        "model_response": "That must've felt really tough on top of everything else going on. Can you tell me more about how missing those classes affected you? Was there something in particular that was weighing heavily on your mind during that time?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.846,
+            "emotions_confirmed": [
+                "Sadness",
+                "Confusion",
+                "Anxiety",
+                "Worry"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "frustration",
+                    "neutral"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 58,
+        "Domain": "Anxiety",
+        "Criterion": "Not due to a medical condition or better explained by another disorder",
+        "client_message": "— (no utterance-level example)",
+        "model_response": "You seem really frustrated today. I get that work stress can feel overwhelming at times. Can you tell me more about how long these panic symptoms have been affecting you?",
+        "metadata": {
+            "emotion": "neutral",
+            "behaviour": "Conversational_Act",
+            "crisis_flag": "false",
+            "disorders": [
+                "BipolarTypeIDisorder",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "BehaviouralActivation",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.339,
+            "emotions_confirmed": [
+                "Neutral"
+            ],
+            "contexts": [
+                "WorkStress"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "BipolarTypeIDisorder",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "neutral",
+                    "frustration",
+                    "anger"
+                ],
+                "overall_theme": "big mood swings",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 59,
+        "Domain": "Somatoform",
+        "Criterion": "Distressing bodily symptom(s)",
+        "client_message": "I've had terrible headaches and back pain.",
+        "model_response": "You're worried that something might be seriously wrong with your health... like maybe even permanently damaging yourself somehow? Those fears can feel overwhelming, I imagine. Can you tell me more about when these worries started for you? Was there anything specific that triggered them, or did they kind of creep up on you over time?",
+        "metadata": {
+            "emotion": "fear",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.88,
+            "emotions_confirmed": [
+                "Fear",
+                "Sadness"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "fear",
+                    "sadness",
+                    "anxiety"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 60,
+        "Domain": "nan",
+        "Criterion": "nan",
+        "client_message": "I have this constant weakness and bloating.",
+        "model_response": "You're describing physical sensations that feel really uncomfortable for you... How long have these symptoms been going on?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder",
+                "AlcoholDependence"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.834,
+            "emotions_confirmed": [
+                "Sadness",
+                "Guilt",
+                "Joy",
+                "Happiness"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "frustration",
+                    "neutral"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 61,
+        "Domain": "nan",
+        "Criterion": "nan",
+        "client_message": "My stomach hurts and my head aches all the time and I keep thinking something is wrong with my body.",
+        "model_response": "It sounds like those physical discomforts are really worrying for you, making you feel uncertain about what's going on inside your body. It can be very unsettling when we experience these kinds of symptoms without knowing their cause... How long have you been experiencing pain in your stomach and headaches?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder",
+                "AlcoholDependence"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.855,
+            "emotions_confirmed": [
+                "Sadness",
+                "Optimism",
+                "Anxiety",
+                "Joy"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "anxiety",
+                    "positive_progress"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 62,
+        "Domain": "Somatoform",
+        "Criterion": "Disproportionate thoughts about seriousness",
+        "client_message": "I'm convinced I have cancer, I keep googling my symptoms.",
+        "model_response": "It sounds like searching for answers online can feel really overwhelming, especially when there's uncertainty about health. Can you tell me more about what's been going on since these worries started - what are some things that've happened recently?",
+        "metadata": {
+            "emotion": "fear",
+            "behaviour": "Active_Coping",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "PostTraumaticStressDisorder",
+                "PanicDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.856,
+            "emotions_confirmed": [
+                "Fear",
+                "Optimism",
+                "Anxiety",
+                "Sadness"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "PostTraumaticStressDisorder"
+                ],
+                "dominant_emotions": [
+                    "fear",
+                    "positive_progress",
+                    "sadness"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 63,
+        "Domain": "nan",
+        "Criterion": "nan",
+        "client_message": "It's going to be a disaster, everything will fall apart.",
+        "model_response": "You're feeling really overwhelmed by thoughts that things might go terribly wrong... It sounds like there's a sense of impending doom hanging over everything. Can you tell me more about what specifically makes you think everything will fall apart? What are some of those worries about?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Rumination",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.824,
+            "emotions_confirmed": [
+                "Sadness",
+                "Anger",
+                "Happiness"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "fear",
+                    "anger"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 64,
+        "Domain": "Somatoform",
+        "Criterion": "Persistently high health anxiety",
+        "client_message": "I'm convinced I have cancer, I keep googling my symptoms.",
+        "model_response": "It sounds like these thoughts about having cancer are creating a lot of distress for you. Can you tell me more about what's driving this worry - is there something specific that's been going through your mind lately?",
+        "metadata": {
+            "emotion": "fear",
+            "behaviour": "Active_Coping",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "PostTraumaticStressDisorder",
+                "PanicDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.856,
+            "emotions_confirmed": [
+                "Fear",
+                "Optimism",
+                "Anxiety",
+                "Sadness"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "PostTraumaticStressDisorder"
+                ],
+                "dominant_emotions": [
+                    "fear",
+                    "positive_progress",
+                    "sadness"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 65,
+        "Domain": "Somatoform",
+        "Criterion": "Excessive time and energy spent on symptoms",
+        "client_message": "I'm convinced I have cancer, I keep googling my symptoms.",
+        "model_response": "It sounds like there's been an overwhelming sense of worry taking over for you lately. What specifically has made these fears about having cancer feel even more pressing?",
+        "metadata": {
+            "emotion": "fear",
+            "behaviour": "Active_Coping",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "PostTraumaticStressDisorder",
+                "PanicDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.856,
+            "emotions_confirmed": [
+                "Fear",
+                "Optimism",
+                "Anxiety",
+                "Sadness"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "PostTraumaticStressDisorder"
+                ],
+                "dominant_emotions": [
+                    "fear",
+                    "positive_progress",
+                    "sadness"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 66,
+        "Domain": "Somatoform",
+        "Criterion": "Repeated contact with healthcare",
+        "client_message": "I keep going to the doctor to get myself checked.",
+        "model_response": "You're prioritizing your health concerns, which shows that you care deeply about taking good care of yourself. Can you tell me more about what's been worrying you enough that you've been wanting these check-ups? What are some things on your mind when you go see the doctor?",
+        "metadata": {
+            "emotion": "positive_progress",
+            "behaviour": "Active_Coping",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder",
+                "BipolarTypeIDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.413,
+            "emotions_confirmed": [
+                "PositiveProgress",
+                "Anxiety",
+                "Happiness",
+                "Nervousness"
+            ],
+            "contexts": [
+                "HealthConcerns"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "PostTraumaticStressDisorder"
+                ],
+                "dominant_emotions": [
+                    "positive_progress",
+                    "neutral",
+                    "sadness"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 67,
+        "Domain": "nan",
+        "Criterion": "nan",
+        "client_message": "I have been to the doctor several times for the same pain.",
+        "model_response": "It's clear that the ongoing experience of chronic pain is wearing on you - I can sense both frustration and disappointment beneath those words. How did having multiple appointments make you feel about seeking care?",
+        "metadata": {
+            "emotion": "positive_progress",
+            "behaviour": "Avoidance",
+            "crisis_flag": "false",
+            "disorders": [
+                "SocialAnxietyDisorder",
+                "PostTraumaticStressDisorder",
+                "GeneralizedAnxietyDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "ExposureHierarchy",
+                "SocialSkillsTraining",
+                "ExposureTherapy",
+                "CognitiveRestructuring"
+            ],
+            "confidence": 0.401,
+            "emotions_confirmed": [
+                "PositiveProgress"
+            ],
+            "contexts": [],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SocialAnxietyDisorder",
+                    "PostTraumaticStressDisorder"
+                ],
+                "dominant_emotions": [
+                    "positive_progress",
+                    "sadness",
+                    "relief"
+                ],
+                "overall_theme": "social anxiety",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 68,
+        "Domain": "Somatoform",
+        "Criterion": "Not relieved by normal investigations or reassurance",
+        "client_message": "The tests came back normal but I still think something is wrong.",
+        "model_response": "You're feeling like there's more going on beneath the surface than just physical health checks coming out okay. That must be really frustrating for you. Can you tell me a bit about what specifically keeps nagging at you? What are some thoughts that come up when you feel like things aren't quite right?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Avoidance",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.896,
+            "emotions_confirmed": [
+                "Sadness",
+                "Nervousness",
+                "Anxiety",
+                "Happiness"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "anxiety",
+                    "fear"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 69,
+        "Domain": "Somatoform",
+        "Criterion": "Fear of serious illness with minimal symptoms",
+        "client_message": "I'm convinced I have cancer, I keep googling my symptoms.",
+        "model_response": "You're stuck on some pretty scary thoughts that just won't shift, aren't you? It sounds like these fears about health are really taking up space for you - can you tell me more about what's been going through your mind when you've been looking at all those online forums and research articles?",
+        "metadata": {
+            "emotion": "fear",
+            "behaviour": "Active_Coping",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "PostTraumaticStressDisorder",
+                "PanicDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.856,
+            "emotions_confirmed": [
+                "Fear",
+                "Optimism",
+                "Anxiety",
+                "Sadness"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "PostTraumaticStressDisorder"
+                ],
+                "dominant_emotions": [
+                    "fear",
+                    "positive_progress",
+                    "sadness"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 70,
+        "Domain": "Somatoform",
+        "Criterion": "Checking and reassurance-seeking, or avoiding doctors",
+        "client_message": "I keep avoiding the doctor because I'm scared of the results.",
+        "model_response": "Your heart's racing right now... Let's take just a deep breath together, shall we? Inhale slowly for four seconds, feeling my steady pace with yours. Now exhale more slowly still for six seconds. Can you notice how your chest rises on the inhale and falls as you exhale? What does it feel like beneath your feet - the floor, bed, chair? Stay where you are, safely, while we breathe gently together.",
+        "metadata": {
+            "emotion": "fear",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "PostTraumaticStressDisorder",
+                "PanicDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.876,
+            "emotions_confirmed": [
+                "Fear",
+                "Anxiety",
+                "Happiness"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "PostTraumaticStressDisorder"
+                ],
+                "dominant_emotions": [
+                    "fear",
+                    "anxiety",
+                    "sadness"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 71,
+        "Domain": "nan",
+        "Criterion": "nan",
+        "client_message": "The tests came back normal but I still think something is wrong.",
+        "model_response": "You feel like there's more going on than just physical symptoms showing up as normal. It can be frustrating when medical results don't quite match how we're feeling inside. Can you tell me more about what specifically feels off for you? What are some things that you've noticed lately that make you think there might be something else at play?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Avoidance",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.896,
+            "emotions_confirmed": [
+                "Sadness",
+                "Nervousness",
+                "Anxiety",
+                "Happiness"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "anxiety",
+                    "fear"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 72,
+        "Domain": "Somatoform",
+        "Criterion": "Pain-predominant presentation",
+        "client_message": "I've had terrible headaches and back pain.",
+        "model_response": "You're feeling really overwhelmed with these physical symptoms - they sound like they're causing a lot of distress for you. How have these health concerns been affecting other areas of your life?",
+        "metadata": {
+            "emotion": "fear",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SpecificPhobia",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder"
+            ],
+            "techniques": [
+                "InteroceptiveExposure",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "CognitiveRestructuring",
+                "ExposureHierarchy"
+            ],
+            "confidence": 0.88,
+            "emotions_confirmed": [
+                "Fear",
+                "Sadness"
+            ],
+            "contexts": [
+                "HealthAnxiety",
+                "HealthConcerns",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SpecificPhobia",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "fear",
+                    "sadness",
+                    "anxiety"
+                ],
+                "overall_theme": "a specific fear",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 73,
+        "Domain": "Somatoform",
+        "Criterion": "Duration: 6 months, or several months",
+        "client_message": "I can't fall asleep and I lie awake until 4am. | Nothing special today. | I can't fall asleep and I lie awake until 4am.",
+        "model_response": "It sounds like those late nights must leave you feeling pretty drained for the rest of the day, starting when you're still trying to get going at an ordinary hour. What's been on your mind while lying there in bed?",
+        "metadata": {
+            "emotion": "neutral",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "BipolarTypeIDisorder",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "BehaviouralActivation",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.393,
+            "emotions_confirmed": [
+                "Neutral"
+            ],
+            "contexts": [
+                "LifeTransition"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "BipolarTypeIDisorder",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "neutral",
+                    "frustration",
+                    "sadness"
+                ],
+                "overall_theme": "big mood swings",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 74,
+        "Domain": "Anger dyscontrol",
+        "Criterion": "Verbal or physical aggression without injury, frequent (about twice a week for 3 months)",
+        "client_message": "I shouted at my wife and threw things.",
+        "model_response": "It sounds like those moments were intense for both of you - I can imagine feeling overwhelmed, but also worried about how that might impact relationships. Can you tell me more about what was happening before you felt like shouting? Was there something specific triggering your feelings?",
+        "metadata": {
+            "emotion": "anger",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "IntermittentExplosiveDisorder",
+                "OppositionalDefiantDisorder",
+                "PostTraumaticStressDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "JournallingOrThoughtRecords",
+                "TraumaProcessing"
+            ],
+            "confidence": 0.866,
+            "emotions_confirmed": [
+                "Anger",
+                "Sadness",
+                "Loneliness",
+                "Anxiety"
+            ],
+            "contexts": [
+                "AcademicPressure",
+                "RelationshipConflict",
+                "FamilyStress",
+                "TraumaticEvent"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "IntermittentExplosiveDisorder",
+                    "OppositionalDefiantDisorder"
+                ],
+                "dominant_emotions": [
+                    "anger",
+                    "frustration",
+                    "sadness"
+                ],
+                "overall_theme": "IntermittentExplosiveDisorder",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 75,
+        "Domain": "Anger dyscontrol",
+        "Criterion": "3 outbursts with damage or injury in 12 months",
+        "client_message": "I shouted at my wife and threw things.",
+        "model_response": "It sounds like those moments were incredibly intense for both of you. What was going on before that outburst – did something trigger it?",
+        "metadata": {
+            "emotion": "anger",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "IntermittentExplosiveDisorder",
+                "OppositionalDefiantDisorder",
+                "PostTraumaticStressDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "JournallingOrThoughtRecords",
+                "TraumaProcessing"
+            ],
+            "confidence": 0.866,
+            "emotions_confirmed": [
+                "Anger",
+                "Sadness",
+                "Loneliness",
+                "Anxiety"
+            ],
+            "contexts": [
+                "AcademicPressure",
+                "RelationshipConflict",
+                "FamilyStress",
+                "TraumaticEvent"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "IntermittentExplosiveDisorder",
+                    "OppositionalDefiantDisorder"
+                ],
+                "dominant_emotions": [
+                    "anger",
+                    "frustration",
+                    "sadness"
+                ],
+                "overall_theme": "IntermittentExplosiveDisorder",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 76,
+        "Domain": "nan",
+        "Criterion": "nan",
+        "client_message": "I was furious and smashed the door and my hand got injured.",
+        "model_response": "It sounds like things escalated really quickly for you there - that must've been an incredibly intense moment. I want to make sure I understand what happened just before that explosion of feelings. Can you tell me more about what led up to smashing the door? Was something else bothering you beforehand, or did it feel like everything just boiled over all at once?",
+        "metadata": {
+            "emotion": "anger",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "IntermittentExplosiveDisorder",
+                "OppositionalDefiantDisorder",
+                "PostTraumaticStressDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "JournallingOrThoughtRecords",
+                "TraumaProcessing"
+            ],
+            "confidence": 0.88,
+            "emotions_confirmed": [
+                "Anger",
+                "Sadness"
+            ],
+            "contexts": [
+                "AcademicPressure",
+                "RelationshipConflict",
+                "FamilyStress",
+                "TraumaticEvent"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "IntermittentExplosiveDisorder",
+                    "OppositionalDefiantDisorder"
+                ],
+                "dominant_emotions": [
+                    "anger",
+                    "frustration",
+                    "sadness"
+                ],
+                "overall_theme": "IntermittentExplosiveDisorder",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 77,
+        "Domain": "Anger dyscontrol",
+        "Criterion": "Grossly out of proportion to the provocation",
+        "client_message": "Everyone is against me and they did it on purpose.",
+        "model_response": "It sounds like things feel really unfair and intentional around you lately. You're feeling targeted and surrounded by people who might be trying to get at you. Can you tell me more about these situations that make you think everyone's out to hurt you? What specifically happened that makes you feel this way?",
+        "metadata": {
+            "emotion": "frustration",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "IntermittentExplosiveDisorder",
+                "OppositionalDefiantDisorder",
+                "PostTraumaticStressDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "GroundingExercise",
+                "BehaviouralActivation",
+                "ThoughtRecord",
+                "DistressToleranceSkills",
+                "EmotionRegulationSkills"
+            ],
+            "confidence": 0.815,
+            "emotions_confirmed": [
+                "Frustration",
+                "Anger",
+                "Guilt"
+            ],
+            "contexts": [
+                "AcademicPressure",
+                "RelationshipConflict",
+                "FamilyStress",
+                "HealthAnxiety"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "IntermittentExplosiveDisorder",
+                    "OppositionalDefiantDisorder"
+                ],
+                "dominant_emotions": [
+                    "frustration",
+                    "anger",
+                    "neutral"
+                ],
+                "overall_theme": "IntermittentExplosiveDisorder",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 78,
+        "Domain": "nan",
+        "Criterion": "nan",
+        "client_message": "I know I overreact, I blew up over something small.",
+        "model_response": "You feel like you overreacted to something minor, but inside there's still a lingering sense that things could've been different if...? It sounds like you're carrying around some regret for how you handled the situation, almost as though your response was somehow tied to an expectation of yourself. What specifically did happen just before the blow-up, can you tell me more about it?",
+        "metadata": {
+            "emotion": "shame_guilt",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "BodyDysmorphicDisorder",
+                "ExcoriationDisorder",
+                "SocialAnxietyDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.807,
+            "emotions_confirmed": [
+                "Shame",
+                "Sadness"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "BodyDysmorphicDisorder",
+                    "ExcoriationDisorder"
+                ],
+                "dominant_emotions": [
+                    "shame_guilt",
+                    "positive_progress",
+                    "sadness"
+                ],
+                "overall_theme": "distress about appearance",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 79,
+        "Domain": "Anger dyscontrol",
+        "Criterion": "Impulsive, not planned or for gain",
+        "client_message": "I just snapped and lost it before I knew what I was doing.",
+        "model_response": "It sounds like that moment really shook you up - can you tell me more about what happened leading up to it? What were some of the thoughts or feelings running through your head beforehand?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Avoidance",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.84,
+            "emotions_confirmed": [
+                "Sadness",
+                "Happiness",
+                "Joy"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "frustration",
+                    "shame_guilt"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 80,
+        "Domain": "nan",
+        "Criterion": "nan",
+        "client_message": "I planned it for days, I wanted to get back at him and teach him a lesson, I wanted to hit him.",
+        "model_response": "It sounds like that situation really got under your skin and triggered some intense feelings. You were feeling angry enough to want to lash out physically - can you tell me more about what happened leading up to that moment? What was going through his mind when he did whatever it was that upset you?",
+        "metadata": {
+            "emotion": "anger",
+            "behaviour": "Active_Coping",
+            "crisis_flag": "false",
+            "disorders": [
+                "IntermittentExplosiveDisorder",
+                "OppositionalDefiantDisorder",
+                "PostTraumaticStressDisorder",
+                "SingleEpisodeDepressiveDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "ExposureTherapy",
+                "RelaxationTraining",
+                "JournallingOrThoughtRecords",
+                "TraumaProcessing"
+            ],
+            "confidence": 0.848,
+            "emotions_confirmed": [
+                "Anger",
+                "Guilt"
+            ],
+            "contexts": [
+                "AcademicPressure",
+                "RelationshipConflict",
+                "FamilyStress",
+                "TraumaticEvent"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "IntermittentExplosiveDisorder",
+                    "OppositionalDefiantDisorder"
+                ],
+                "dominant_emotions": [
+                    "anger",
+                    "frustration",
+                    "positive_progress"
+                ],
+                "overall_theme": "IntermittentExplosiveDisorder",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 81,
+        "Domain": "Anger dyscontrol",
+        "Criterion": "Distress, impairment, or legal or financial consequences",
+        "client_message": "It has been affecting my work and I missed class twice.",
+        "model_response": "Those two instances stand out - missing classes can feel especially tough on top of already feeling down. What's going through your mind about those absences? Did anything trigger that decision for either one?",
+        "metadata": {
+            "emotion": "sadness",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "AdjustmentDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.846,
+            "emotions_confirmed": [
+                "Sadness",
+                "Confusion",
+                "Anxiety",
+                "Worry"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "sadness",
+                    "frustration",
+                    "neutral"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 82,
+        "Domain": "nan",
+        "Criterion": "nan",
+        "client_message": "I felt so guilty afterwards, I shouldn't have yelled at her.",
+        "model_response": "You're carrying around some heavy feelings after that argument. The weight of guilt can feel crushing. It sounds like you replayed it over and over, wondering if there was something else you could've done differently...",
+        "metadata": {
+            "emotion": "shame_guilt",
+            "behaviour": "Emotional_Expression",
+            "crisis_flag": "false",
+            "disorders": [
+                "SingleEpisodeDepressiveDisorder",
+                "ProlongedGriefDisorder",
+                "BodyDysmorphicDisorder"
+            ],
+            "techniques": [
+                "BehaviouralActivation",
+                "MindfulnessBasedIntervention",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.878,
+            "emotions_confirmed": [
+                "Shame",
+                "Sadness",
+                "Loneliness",
+                "Optimism"
+            ],
+            "contexts": [
+                "RelationshipConflict",
+                "FamilyStress",
+                "SocialRejection",
+                "AcademicPressure"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "SingleEpisodeDepressiveDisorder",
+                    "ProlongedGriefDisorder"
+                ],
+                "dominant_emotions": [
+                    "shame_guilt",
+                    "sadness",
+                    "neutral"
+                ],
+                "overall_theme": "low mood / depression",
+                "turns": 1
+            }
+        }
+    },
+    {
+        "row_index": 83,
+        "Domain": "Anger dyscontrol",
+        "Criterion": "Age 6 or over; exclusions",
+        "client_message": "— (no utterance-level example)",
+        "model_response": "You've been noticing some pretty significant changes in how you feel throughout the day lately. Can you tell me more about that? What does a typical morning look like for you before work starts?",
+        "metadata": {
+            "emotion": "neutral",
+            "behaviour": "Conversational_Act",
+            "crisis_flag": "false",
+            "disorders": [
+                "BipolarTypeIDisorder",
+                "SingleEpisodeDepressiveDisorder",
+                "PostTraumaticStressDisorder"
+            ],
+            "techniques": [
+                "MindfulnessBasedIntervention",
+                "BehaviouralActivation",
+                "ProblemSolving",
+                "JournallingOrThoughtRecords",
+                "SelfCompassion"
+            ],
+            "confidence": 0.339,
+            "emotions_confirmed": [
+                "Neutral"
+            ],
+            "contexts": [
+                "WorkStress"
+            ],
+            "session_profile": {
+                "dominant_disorders": [
+                    "BipolarTypeIDisorder",
+                    "SingleEpisodeDepressiveDisorder"
+                ],
+                "dominant_emotions": [
+                    "neutral",
+                    "frustration",
+                    "anger"
+                ],
+                "overall_theme": "big mood swings",
+                "turns": 1
+            }
+        }
+    }
+]

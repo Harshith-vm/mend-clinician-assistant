@@ -1,0 +1,76 @@
+================================================================================
+  MEND — DEMO CONVERSATION SCRIPTS  (patient messages to copy-paste)
+================================================================================
+HOW TO USE
+  • Paste ONE numbered line at a time into the chat box.
+  • Wait for Mend to finish replying, then paste the next line.
+  • Click "Start new session" in the sidebar before beginning a new disorder,
+    so each demo starts fresh.
+  • The bot understands/asks in the first 2–3 turns, then shifts to actively
+    helping and walking through a coping step by turns 4–6.
+  • Tip: these three are the most common presentations in the datasets
+    (Depression, Generalised Anxiety, Panic) and each ends on a concrete solution.
+
+  (Only the PATIENT lines are below — Mend generates every reply live.)
+
+
+────────────────────────────────────────────────────────────────────────────────
+  DEMO 1 — DEPRESSION  (7 turns)
+────────────────────────────────────────────────────────────────────────────────
+
+1) Honestly I don't even know where to start. For the last few weeks everything just feels grey and heavy. I've lost interest in the things I used to love, and I'm exhausted no matter how much I sleep.
+
+2) Getting out of bed in the morning feels almost impossible. I hit snooze for an hour and just lie there because nothing feels worth doing.
+
+3) I've stopped replying to my friends. I cancelled plans twice this week — I just don't have the energy to pretend I'm okay.
+
+4) A big part of it is this voice in my head telling me I'm failing at everything and letting everyone down.
+
+5) It's affecting my work too. I stare at my screen and can't focus, and then I feel even worse about falling behind.
+
+6) I really want to feel like myself again. What can I actually do to start climbing out of this?
+
+7) That gives me a bit of hope. What is one small thing I could do today to get started?
+
+
+────────────────────────────────────────────────────────────────────────────────
+  DEMO 2 — GENERALISED ANXIETY DISORDER  (7 turns)
+────────────────────────────────────────────────────────────────────────────────
+
+1) My mind never switches off. From the moment I wake up I'm worrying about a dozen different things — work, money, my family's health — and I just can't seem to stop.
+
+2) It's like my brain always jumps straight to the worst-case scenario. If a friend doesn't text back I immediately assume something terrible has happened to them.
+
+3) It's physical too — my shoulders are always tense, my stomach is in knots, and I've been getting headaches almost every day.
+
+4) I lie awake for hours at night because I can't turn the worrying off, and then I'm exhausted and even more on edge the next day.
+
+5) I know deep down that most of what I worry about never even happens, but knowing that doesn't make the worry actually stop.
+
+6) I'm so tired of feeling wound up all the time. What can I actually do to quiet my mind a bit?
+
+7) Okay, I'd be willing to try that. What's one thing I could do the next time the worrying starts to spiral?
+
+
+────────────────────────────────────────────────────────────────────────────────
+  DEMO 3 — PANIC DISORDER  (7 turns)
+────────────────────────────────────────────────────────────────────────────────
+
+1) A few times this month I've had these sudden waves of intense fear out of nowhere — my heart pounds, I can't breathe, and I honestly feel like I'm dying.
+
+2) The last one hit me in the middle of a grocery store. I had to drop my basket and rush out to sit in my car until it passed.
+
+3) Now I'm scared of it happening again, so I've started avoiding places where I think I might panic — crowded shops, the bus, big meetings.
+
+4) Even when I'm calm, there's this constant dread in the back of my mind, just waiting for the next attack to hit.
+
+5) My world feels like it's getting smaller and smaller because of this, and I feel embarrassed that I can't just control it.
+
+6) I really need this to stop running my life. What can I do in the moment when I feel one of these coming on?
+
+7) That's really helpful. What's one small step I could take this week to start facing the places I've been avoiding?
+
+
+================================================================================
+  END — 3 demos × 7 turns.  Start a new session between each.
+================================================================================

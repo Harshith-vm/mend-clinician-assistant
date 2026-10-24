@@ -1,0 +1,46 @@
+================================================================================
+  MEND — ACUTE-MOMENT DEMO  (panic / anxiety attack → calm-down mode)
+================================================================================
+WHAT THIS DEMONSTRATES
+  Mend detects when the person is in an ACUTE moment (a panic or anxiety attack
+  happening right now) and switches out of "explore & ask questions" mode into
+  STABILISE mode: short, warm, slow replies that reassure and gently guide a
+  breathing / grounding step — no probing questions. As the person calms down,
+  it eases back into normal supportive conversation.
+
+HOW TO USE
+  • Click "Start new session" first.
+  • Paste ONE numbered line at a time; wait for Mend's reply, then paste the next.
+  • 6 turns total (~1.5-2 min). Acute moments are short, so replies are brief.
+
+WHAT TO WATCH FOR
+  • Turns 1-3 (in the attack): replies get SHORT and calming — "you're safe,
+    this will pass", guiding one breathing/grounding step at a time, NOT asking
+    the patient to explain or analyse.
+  • Turns 4-6 (calming down): replies lengthen again and gently return to
+    support and looking at what's been happening — the mode switches back.
+  • Sidebar "Affect" should read fear / panic during the acute turns.
+
+  (Only the PATIENT lines are below — Mend generates every reply live.)
+
+
+────────────────────────────────────────────────────────────────────────────────
+  ACUTE MOMENT — PANIC ATTACK  (6 turns)
+────────────────────────────────────────────────────────────────────────────────
+
+1) I think I'm having a panic attack right now - my heart is pounding, I can't breathe, and I feel like I'm dying.
+
+2) It's not stopping. I can't calm down and I'm shaking all over.
+
+3) I'm trying to breathe with you, but I'm still really scared right now.
+
+4) Okay... it's starting to ease a little. My breathing feels a bit steadier now.
+
+5) Yeah, I can feel my feet on the floor now. That actually helped - thank you.
+
+6) It was terrifying though. These attacks keep happening lately and I don't know why.
+
+
+================================================================================
+  END — 6 turns.  Turns 1-3 = calm-down mode, 4-6 = easing back into support.
+================================================================================
